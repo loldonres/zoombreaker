@@ -11,7 +11,6 @@ ZoomBreaker is a Win32 C++ application that integrates with Zoom via UI Automati
 - **Chat spam** — automated message flooding with configurable interval and limit.
 - **Hand raise** — continuous Alt+Y hold for persistent raise-hand state.
 - **Participant parser** — reads the visible participant list from the Zoom "Participants" window via UI Automation. Click any name to copy it to clipboard.
-- **Auto Raid** — combined mode for automated microphone, camera, soundpad, and rename cycles.
 - **Settings dialog** — adjustable volume slider range (0–1000%).
 
 ## Requirements
