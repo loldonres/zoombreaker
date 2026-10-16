@@ -1,0 +1,20 @@
+#define IDI_ZOOMBREAKER           1
+#define IDR_BUNDLE_WEBVIEW_LOADER 5101
+#define IDR_BUNDLE_UI_HTML        5102
+#define IDR_BUNDLE_UI_CSS         5103
+#define IDR_BUNDLE_UI_JS          5104
+#define IDR_BUNDLE_UI_FONT        5105
+#define IDR_BUNDLE_UI_LOGO        5106
+#define IDR_BUNDLE_NEON_EXE       5107
+#define IDR_BUNDLE_NEON_DLL       5108
+
+IDI_ZOOMBREAKER ICON "zoomraid prokect/zoombreaker.ico"
+
+IDR_BUNDLE_WEBVIEW_LOADER RCDATA "WebView2Loader.dll"
+IDR_BUNDLE_UI_HTML        RCDATA "app_ui.html"
+IDR_BUNDLE_UI_CSS         RCDATA "app_ui.css"
+IDR_BUNDLE_UI_JS          RCDATA "app_ui.js"
+IDR_BUNDLE_UI_FONT        RCDATA "Oswald-Regular.woff2"
+IDR_BUNDLE_UI_LOGO        RCDATA "zoomraid prokect/zoombreaker1.png"
+IDR_BUNDLE_NEON_EXE       RCDATA "Neon/binaries/dfvcam.exe"
+IDR_BUNDLE_NEON_DLL       RCDATA "Neon/binaries/dfvcam_source.dll"
